@@ -33,6 +33,6 @@ To make fisheries data more accessible through an interactive dashboard that hel
 - IHIMBAZWE Marié Merci - mariemerciihimbazwe543@gmail.com, +250 796 262 969
 
 ## Data
-Data is assembled from published sources, including the MINAGRI Annual Report 2023-24. See the "Sources & notes" page in the dashboard for details and data quality notes.
+Data is assembled from published sources, including the MINAGRI Annual Report 2023-24,African Agribusiness, Farmexpart Group, National Aquaculture Strategy, National Institute of Statistics of Rwanda(NISR), FAO/UNDP Lake Kivu Fisheries Development Project, KT press and All Africa coverage of the Second National strategy for Transformation. . See the "Sources & notes" page in the dashboard for details and data quality notes.
 
 © fishdatarw. All rights reserved.
