@@ -5,7 +5,7 @@ FishData Rwanda is a student hackathon project that makes publicly available fis
 **Live demo:** https://fishdatarwa.vercel.app/
 
 ## Mission
-To make fisheries data more accessible through an interactive dashboard that helps people explore production, growing systems, locations, and market information.
+To make fisheries and aquaculture data more accessible through an interactive dashboard that helps people particularly Government planners (MINAGRI,RAB), Statisticians (NISR), Fish farmers, Hatchery operators, Investors and agribusinesses, Traders, Processors and Cold-chain operators, Development partners and NGOs, Students and researchers, Environmental and lake managers to explore production, growing systems, locations, and market information for use available resources sustainably and enhance the development of country.
 
 ## Features
 - Overview of Rwanda's aquaculture and fisheries sector
